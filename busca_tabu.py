@@ -1,13 +1,11 @@
 from random import randint, randrange
 import math
 
-# Constantes
-PESO_MAXIMO = 10
-TAM_MOCHILA = 5
+PESO_MAXIMO = 6404180
+TAM_MOCHILA = 24
+lista_valores = [6404180, 825594, 1677009, 1676628, 1523970, 943972, 97426, 69666, 1296457, 1679693, 1902492, 1849296, 1049289, 1319836, 953277, 2067538, 675367, 853655, 1826027, 65731, 901489, 577243, 466257, 369261]
+lista_pesos = [382745, 382745, 799601, 909247, 729069, 467902, 44328, 34610, 698150, 823069, 909359, 853665, 610856, 670702, 488960, 951111, 323046, 446298, 931161, 31385, 496951, 264724, 224916, 169684]
 
-# Dados
-lista_valores = [4, 6, 5, 3, 1]
-lista_pesos = [5, 4, 3, 2, 1]
 
 # Função para validar se a solução é válida (não ultrapassa o peso máximo)
 def solucao_valida(solucao_proposta, lista_pesos):
