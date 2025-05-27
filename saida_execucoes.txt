@@ -1,0 +1,135 @@
+Iniciando 20 execuções do Algoritmo Genético...
+
+========== Execução 1/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2189
+    Peso da melhor solução: 1549
+
+========== Execução 2/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2175
+    Peso da melhor solução: 1550
+
+========== Execução 3/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2184
+    Peso da melhor solução: 1550
+
+========== Execução 4/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2191
+    Peso da melhor solução: 1550
+
+========== Execução 5/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2192
+    Peso da melhor solução: 1550
+
+========== Execução 6/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2190
+    Peso da melhor solução: 1550
+
+========== Execução 7/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2187
+    Peso da melhor solução: 1549
+
+========== Execução 8/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2186
+    Peso da melhor solução: 1550
+
+========== Execução 9/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2183
+    Peso da melhor solução: 1549
+
+========== Execução 10/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2182
+    Peso da melhor solução: 1550
+
+========== Execução 11/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2184
+    Peso da melhor solução: 1550
+
+========== Execução 12/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2181
+    Peso da melhor solução: 1549
+
+========== Execução 13/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2195
+    Peso da melhor solução: 1550
+
+========== Execução 14/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2189
+    Peso da melhor solução: 1550
+
+========== Execução 15/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2175
+    Peso da melhor solução: 1550
+
+========== Execução 16/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2184
+    Peso da melhor solução: 1550
+
+========== Execução 17/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2191
+    Peso da melhor solução: 1550
+
+========== Execução 18/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2189
+    Peso da melhor solução: 1550
+
+========== Execução 19/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2186
+    Peso da melhor solução: 1548
+
+========== Execução 20/20 ==========
+
+Iniciando Algoritmo Genético (99 gerações, 200 indivíduos)
+>>> Melhor valor encontrado na execução: 2186
+    Peso da melhor solução: 1550
+
+========== Resumo das Execuções ==========
+Número de execuções: 20
+Média dos melhores valores obtidos : 2185.95
+Desvio padrão dos valores        : 5.07
+Melhor valor geral obtido        : 2195
+Pior valor geral obtido          : 2175
+==========================================
+
+Gráfico 'boxplot_melhores_valores.png' salvo em 'figs/'
+Gráfico 'evolucao_media_melhor_fitness.png' salvo em 'figs/'
+
+Execução do Algoritmo Genético concluída.
+Resultados detalhados foram salvos em: saida_execucoes.txt
